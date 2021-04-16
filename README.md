@@ -1,5 +1,7 @@
 <img src="./header.svg">
 
+ 📫 How to reach me fgrt1006@naver.com
+
 <!--
 **Hyunstagram/Hyunstagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
